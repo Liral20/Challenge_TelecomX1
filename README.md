@@ -49,6 +49,5 @@ Los clientes que abandonan a telecom X:
 ** Pagan con cheque electrónico.
 ** Tienen contrato mes a mes.
 
-✉️ Autor
-Gabriel Méndez Oteiza
+
 
